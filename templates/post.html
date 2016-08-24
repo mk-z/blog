@@ -1,5 +1,6 @@
 #post.html
 {% extends "base.html" %}
+{% load custom_markdown %}
 
 {% block content %}
 <div class="posts">
@@ -18,5 +19,6 @@
                     </p>
                 </div>
         </section>
+    {% include "duoshuo.html" %}
 </div><!-- /.blog-post -->
 {% endblock %}
