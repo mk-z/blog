@@ -15,7 +15,7 @@
 
                 <div class="post-description">
                     <p>
-                        {{ post.content }}
+                        {{ post.content|custom_markdown|truncatewords_html:100 }}
                     </p>
                 </div>
         </section>

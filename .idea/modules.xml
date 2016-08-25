@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/newBlog.iml" filepath="$PROJECT_DIR$/.idea/newBlog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../code/crystalnix/omaha-server/omaha_server/.idea/omaha_server.iml" filepath="$PROJECT_DIR$/../../../code/crystalnix/omaha-server/omaha_server/.idea/omaha_server.iml" />
     </modules>
   </component>
 </project>
